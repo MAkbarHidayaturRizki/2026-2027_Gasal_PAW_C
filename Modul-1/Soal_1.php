@@ -1,4 +1,4 @@
 <?php 
-// ini non-Embedded Script
+// ini non-embedded Script
 echo "Hello world";
 ?>
